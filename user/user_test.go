@@ -3,7 +3,7 @@ package user
 import (
 	"testing"
 
-	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/assert" 
 	"github.com/stretchr/testify/mock"
 	"github.com/viniciuswebdev/golang-unit-tests/entity"
 )
